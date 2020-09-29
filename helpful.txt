@@ -1,0 +1,8 @@
+database name = ontoron
+table = admin ,donar,request 
+*****
+ CREAT table admin ('id','username','password');
+INSERT INTO admin ('id','username','password') VALUES(1,'adminpro','asdfg');
+
+ CREAT table doanr('id','name','phone','blood_group','district','password','date_of_donat');
+ CREAT table request('bloodGroup','location','num');

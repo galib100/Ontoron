@@ -1,0 +1,9 @@
+.logsec{
+  background: url(../img/bg.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+background-size: cover;
+}
+.header{
+  background-color: #BB78FF;
+}

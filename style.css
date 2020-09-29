@@ -1,0 +1,68 @@
+.body{
+  background: #000;
+}
+.navbar{
+  background: #000;
+}
+.nav-item{
+  padding-left: 1em;
+}
+.nav-link{
+text-transform: uppercase;
+}
+.carousel-item{
+  height:700px;
+}
+.carousel-img-1{
+  background: url('img/t#th.jpg');
+  background-size:cover;
+}
+.carousel-img-2{
+  background:url('img/th.jpg');
+  background-size:cover;
+}
+.carousel-img-3{
+  background:url('img/th1.jpg');
+  background-size:cover;
+
+}
+.request{
+  position: relative;
+  background: url(img/bg1.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 300px;
+
+}
+.adddonar{
+  position: relative;
+  background: url(img/bg3.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 300px;
+
+}
+.search_field{
+  position: relative;
+  background: url(img/banner-bg.webp);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 150px;
+}
+.addpic{
+  position: relative;
+  background: url(img/img1.jpeg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 250px;
+}
+.dark-overly{
+  background: rgba(0, 0, 0, 0.7);
+  height: 100%;
+width: 100%;
+position: absolute;
+}
